@@ -56,7 +56,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://github.com/Imlasiya"><img src="https://telegra.ph/file/0ee669c1d3e0120424822.jpg" width="150px" height="150px" /></a> |
+| <a href="https://github.com/Imlasiya"><img src="https://telegra.ph/file/5ef5aea139b94cc6d3bec.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       ** Lasindu Senash **
                                                              
