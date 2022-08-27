@@ -47,6 +47,11 @@
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/php--v1.png"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/vpn.png"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/server.png"/></a>
+
+## CONTRIBUTION GRAPH
+
+<img src="github-contribution-grid-snake.svg">
+
   
 ## NOW PLAYING
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
@@ -65,4 +70,4 @@ You can use the website to generate badges: https://shields.io/
 ![VisitorCount](https://profile-counter.glitch.me/{ImLasiya}/count.svg) 
                                                              
  
-      
+ 
